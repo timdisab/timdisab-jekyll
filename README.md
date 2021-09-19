@@ -1,7 +1,6 @@
 # Klisé
 
-Klisé is minimalist Jekyll theme for running a personal site and blog running on Jekyll.<br>
-For demo <a href="https://klise.now.sh" target="_blank" rel="noopener">klise.now.sh</a>
+Blog theme based on Klisé, a minimalist Jekyll theme for running a personal site and blog running on Jekyll.<br>
 
 ## Features
 
@@ -21,8 +20,6 @@ For demo <a href="https://klise.now.sh" target="_blank" rel="noopener">klise.now
 - [x] W3C **Validated**
 - [x] Lighthouse and PageSpeed **Passed**
 
-![Lighthouse Result](./lighthouse.png)
-
 ## Backlogs
 
 - [ ] Intergrated with PhotoSwipe.
@@ -40,9 +37,7 @@ $ bundle install
 $ bundle exec jekyll serve
 ```
 
-Navigate to `localhost:4000`. You're Welcome, Fork and be a Stargazer.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/piharpi/jekyll-klise) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/piharpi/jekyll-klise)
+Navigate to `localhost:4000`.
 
 ## Limitation
 
@@ -52,7 +47,7 @@ Navigate to `localhost:4000`. You're Welcome, Fork and be a Stargazer.
 
 If you see any typos or formatting errors in a post, or want to helping reduce backlogs or any other issue that needs to be addressed, please do not hesitate to open a pull request and fix it!, please read [contributing](./CONTRIBUTING.md) before PR.
 
-Yeaaa feel free to open a pull request.
+Feel free to open a pull request.
 
 ## License
 
