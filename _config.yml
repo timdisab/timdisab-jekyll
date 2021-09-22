@@ -21,10 +21,10 @@ author:
   avatar: /assets/img/Tim_DiSabatino.jpg # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
+url: "https://www.timdisab.com/" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: UA-99736283-1
 fb_appid:
 
 # Collection setting

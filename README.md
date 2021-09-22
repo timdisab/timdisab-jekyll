@@ -1,4 +1,4 @@
-# Klisé
+# Minimalist Blog Theme
 
 Blog theme based on Klisé, a minimalist Jekyll theme for running a personal site and blog running on Jekyll.<br>
 
@@ -12,7 +12,7 @@ Blog theme based on Klisé, a minimalist Jekyll theme for running a personal sit
 - [x] Images of post Organized ([`jekyll-postfiles`](https://github.com/nhoizey/jekyll-postfiles))
 - [x] Generate Sitemap ([`jekyll-sitemap`](https://github.com/jekyll/jekyll-sitemap))
 - [x] RSS Feed ([`jekyll-feed`](https://github.com/jekyll/jekyll-feed))
-- [x] Syntax Highlighter ([`rouge`](https://github.com/rouge-ruby/rouge))
+- [x] Dark Syntax Highlighter ([`rouge`](https://github.com/rouge-ruby/rouge))
 - [x] Next & Previous Post
 - [x] Comment layout, enable in frontmatter if you wish
 - [x] Google analytics
