@@ -24,7 +24,7 @@ author:
 url: "https://www.timdisab.com/" #
 baseurl:
 permalink: /:title/
-google_analytics: UA-99736283-1
+google_analytics:
 fb_appid:
 
 # Collection setting
